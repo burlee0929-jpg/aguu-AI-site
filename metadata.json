@@ -1,0 +1,6 @@
+{
+  "name": "Алтан-Од — Портфолио",
+  "description": "Алтан-Одын хувийн бүтээлч портфолио вэбсайт. Хөдөлгөөнт видео дэвсгэр, шилдэг бүтээлүүдийн жагсаалт.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
